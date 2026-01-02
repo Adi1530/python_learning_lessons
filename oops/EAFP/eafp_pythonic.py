@@ -12,6 +12,3 @@ if __name__ == "__main__":
 
     dict_check(sample_one)
     dict_check(sample_two)
-
-
-
