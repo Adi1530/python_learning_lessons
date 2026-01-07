@@ -12,3 +12,4 @@ def drive():
 
 decorated_function=car(drive)
 decorated_function()
+print(decorated_function.__name__)
